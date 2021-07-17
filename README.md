@@ -11,7 +11,7 @@
  - Denver by far had the largest number of votes.
  - According to the analysis, Charles Casper Stockham had 85,213 votes which accounted for 23.0% of the toal votes for each candidate. Diana DeGette had 272,892 votes which accounted for 73.8% of the toal votes for each candidate. Lastly, Raymon Anthony Doane had 11,606 votes which accounted for 3.1% of the toal votes for each candidate.
  - According to the analysis, Diana DeGette won the election by a wide margin. She received 272,892 votes which accounted for 73.8% of the total votes.
-<img src="untitled.png" width="60%" height="60%" title="Election Resuelts">
+<img src="untitled.png" width="60%" height="60%" title="Election Results">
 
 ## Election-Audit Summary
   In my opinion, this script is very efficient and multi-faceted. With a few modifications, it can be used for any election. One being changing the variables to find the counties with the lowest turnout, rather than the largest to help determine which areas they need to be better with campaigning in. Another change is adding demographics to your analysis to determine who their target market is and who they need to attempt to improve their relationship with in order to increase their vote percentage.
