@@ -13,4 +13,4 @@
  - According to the analysis, Diana DeGette won the election by a wide margin. She received 272,892 votes which accounted for 73.8% of the total votes.
 
 ## Election-Audit Summary
-  In my opinion, this script is very efficient and multi-faceted. With a few modifications it can be used for any election. One being changing the variables to the appropriate selection based off the data set you are using, whether it's in a differnt location or a different branch of the election such as local and presidential.
+  In my opinion, this script is very efficient and multi-faceted. With a few modifications it can be used for any election. One being changing the variables to finding the counties with the lowest turnout rather than the largest to help determine which areas they need to be better with campaigning in. ANother being adding demographics to your analysis to determine who is their target market and who they need to attempt to improve their relationship with.
