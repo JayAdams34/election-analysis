@@ -1,5 +1,5 @@
 # election-analysis
-
+Please reach out to me, Jamar Adams, at adams.jamar757@gmail.com
 
 ## Overview of Election Audit
   The purpose of this analysis was to find the voter turnout for each county, the percentage of votes from each county, as well as finding the county with the highest turnout using for loops and conditional statements for a U.S congressional precint in Colorado.
